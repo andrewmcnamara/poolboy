@@ -1,0 +1,11 @@
+{
+  "name": "poolboy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:andrewmcnamara/poolboy.git",
+  "author": "Andrew McNamara <andrew.mcnamara@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "budo": "^10.0.3"
+  }
+}
